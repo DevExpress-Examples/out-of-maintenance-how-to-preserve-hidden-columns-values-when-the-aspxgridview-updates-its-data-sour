@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx](./CS/TestGridViewSite81/Default.aspx) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
+* [Default.aspx.cs](./CS/TestGridViewSite81/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TestGridViewSite81/Default.aspx.vb))
+* [MasterPage.master.cs](./CS/TestGridViewSite81/MasterPage.master.cs) (VB: [MasterPage.master.vb](./VB/TestGridViewSite81/MasterPage.master.vb))
+<!-- default file list end -->
 # How to preserve hidden columns values when the ASPxGridView updates its data source
 
 
