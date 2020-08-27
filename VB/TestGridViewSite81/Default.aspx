@@ -1,9 +1,9 @@
 <%@ Page Language="vb" AutoEventWireup="true" CodeFile="Default.aspx.vb" Inherits="_Default"  MasterPageFile="~/MasterPage.master"%>
 
-<%@ Register Assembly="DevExpress.Web.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
+<%@ Register Assembly="DevExpress.Web.v15.1, Version=15.1.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
 	Namespace="DevExpress.Web" TagPrefix="dxwgv" %>
 
-<%@ Register Assembly="DevExpress.Web.v15.1, Version=15.1.3.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
+<%@ Register Assembly="DevExpress.Web.v15.1, Version=15.1.15.0, Culture=neutral, PublicKeyToken=B88D1754D700E49A"
 	Namespace="DevExpress.Web" TagPrefix="dxe" %>
 
 <asp:Content ContentPlaceHolderID="ContentPlaceHolder1" ID="CC" runat="Server">
